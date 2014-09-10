@@ -1,0 +1,24 @@
+{
+  "name": "chess-engine",
+  "version": "0.0.0",
+  "description": "An async chess engine written in nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/delmosaurio/ns-chess-engine.git"
+  },
+  "keywords": [
+    "chess",
+    "chess",
+    "engine"
+  ],
+  "author": "Delmo <delmosaurio@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/delmosaurio/ns-chess-engine/issues"
+  },
+  "homepage": "https://github.com/delmosaurio/ns-chess-engine"
+}
